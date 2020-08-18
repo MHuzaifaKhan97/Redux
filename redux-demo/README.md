@@ -19,3 +19,4 @@
 ## Configure Project
 ### - create folder redux-demo
 ### - npm init --yes 
+### - npm install redux 
